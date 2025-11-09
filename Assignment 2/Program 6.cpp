@@ -11,3 +11,4 @@ int main()
     si=(principle*rate*time)/100;
     printf("si=%.2f\n",si);
     return 0;
+
