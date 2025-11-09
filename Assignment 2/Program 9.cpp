@@ -11,3 +11,4 @@ int main() {
     printf("swipe number is %d and another swipe number is %d,a,b);
     return 0;
 }
+
